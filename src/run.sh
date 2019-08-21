@@ -4,6 +4,9 @@ cd "$SCRIPT_DIR"
 ./run_abbr.sh
 ./run_set.sh
 ./run_set_sql.sh
+./run_set_sql_file.sh
+./run_set_sql_env.sh
+./run_set_sql_zenity.sh
 ./run_clear.sh
 ./run_init.sh
 ./run_unset.sh
